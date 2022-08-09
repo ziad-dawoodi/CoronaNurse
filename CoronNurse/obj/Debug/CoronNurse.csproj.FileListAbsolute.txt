@@ -1,0 +1,12 @@
+C:\Users\ziad\Desktop\Project\Project\2\CoronNurse\obj\Debug\CoronNurse.csproj.AssemblyReference.cache
+C:\Users\ziad\Desktop\Project\Project\2\CoronNurse\obj\Debug\CoronNurse.csproj.SuggestedBindingRedirects.cache
+C:\Users\ziad\Desktop\Project\Project\2\CoronNurse\obj\Debug\CoronNurse.LoginForm.resources
+C:\Users\ziad\Desktop\Project\Project\2\CoronNurse\obj\Debug\CoronNurse.Properties.Resources.resources
+C:\Users\ziad\Desktop\Project\Project\2\CoronNurse\obj\Debug\CoronNurse.csproj.GenerateResource.cache
+C:\Users\ziad\Desktop\Project\Project\2\CoronNurse\obj\Debug\CoronNurse.csproj.CoreCompileInputs.cache
+C:\Users\ziad\Desktop\Project\Project\2\CoronNurse\bin\Debug\ممرض كورونا.exe.config
+C:\Users\ziad\Desktop\Project\Project\2\CoronNurse\bin\Debug\ممرض كورونا.exe
+C:\Users\ziad\Desktop\Project\Project\2\CoronNurse\bin\Debug\ممرض كورونا.pdb
+C:\Users\ziad\Desktop\Project\Project\2\CoronNurse\obj\Debug\ممرض كورونا.exe
+C:\Users\ziad\Desktop\Project\Project\2\CoronNurse\obj\Debug\ممرض كورونا.pdb
+C:\Users\ziad\Desktop\Project\Project\2\CoronNurse\obj\Debug\CoronNurse.MainForm.resources

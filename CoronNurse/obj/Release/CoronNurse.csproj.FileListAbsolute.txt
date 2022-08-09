@@ -1,0 +1,84 @@
+C:\Users\ziad\Desktop\Project\Project\2\CoronNurse\obj\Release\CoronNurse.csproj.AssemblyReference.cache
+C:\Users\ziad\Desktop\Project\Project\2\CoronNurse\obj\Release\CoronNurse.csproj.SuggestedBindingRedirects.cache
+C:\Users\ziad\Desktop\Project\Project\2\CoronNurse\obj\Release\CoronNurse.LoginForm.resources
+C:\Users\ziad\Desktop\Project\Project\2\CoronNurse\obj\Release\CoronNurse.Properties.Resources.resources
+C:\Users\ziad\Desktop\Project\Project\2\CoronNurse\obj\Release\CoronNurse.csproj.GenerateResource.cache
+C:\Users\ziad\Desktop\Project\Project\2\CoronNurse\obj\Release\CoronNurse.csproj.CoreCompileInputs.cache
+C:\Users\ziad\Desktop\Project\Project\2\CoronNurse\bin\Release\ممرض كورونا.exe.config
+C:\Users\ziad\Desktop\Project\Project\2\CoronNurse\bin\Release\ممرض كورونا.exe
+C:\Users\ziad\Desktop\Project\Project\2\CoronNurse\bin\Release\ممرض كورونا.pdb
+C:\Users\ziad\Desktop\Project\Project\2\CoronNurse\obj\Release\ممرض كورونا.exe
+C:\Users\ziad\Desktop\Project\Project\2\CoronNurse\obj\Release\ممرض كورونا.pdb
+C:\Users\ziad\Desktop\Project\Project\test\CoronNurse\bin\Release\ممرض كورونا.exe.config
+C:\Users\ziad\Desktop\Project\Project\test\CoronNurse\bin\Release\ممرض كورونا.exe
+C:\Users\ziad\Desktop\Project\Project\test\CoronNurse\bin\Release\ممرض كورونا.pdb
+C:\Users\ziad\Desktop\Project\Project\test\CoronNurse\obj\Release\CoronNurse.csproj.AssemblyReference.cache
+C:\Users\ziad\Desktop\Project\Project\test\CoronNurse\obj\Release\CoronNurse.csproj.SuggestedBindingRedirects.cache
+C:\Users\ziad\Desktop\Project\Project\test\CoronNurse\obj\Release\CoronNurse.LoginForm.resources
+C:\Users\ziad\Desktop\Project\Project\test\CoronNurse\obj\Release\CoronNurse.Form1.resources
+C:\Users\ziad\Desktop\Project\Project\test\CoronNurse\obj\Release\CoronNurse.Properties.Resources.resources
+C:\Users\ziad\Desktop\Project\Project\test\CoronNurse\obj\Release\CoronNurse.csproj.GenerateResource.cache
+C:\Users\ziad\Desktop\Project\Project\test\CoronNurse\obj\Release\CoronNurse.csproj.CoreCompileInputs.cache
+C:\Users\ziad\Desktop\Project\Project\test\CoronNurse\obj\Release\ممرض كورونا.exe
+C:\Users\ziad\Desktop\Project\Project\test\CoronNurse\obj\Release\ممرض كورونا.pdb
+C:\Users\ziad\Desktop\Project\Project\2\CoronNurse\obj\Release\CoronNurse.MainForm.resources
+D:\SVU\9 S21\Wize\BAIT_IPI405_S21__C2_Mohamed_zead_88405\BAIT_IPI405_S21__C2_Mohamed_zead_88405\CoronNurse\bin\Release\ممرض كورونا.exe.config
+D:\SVU\9 S21\Wize\BAIT_IPI405_S21__C2_Mohamed_zead_88405\BAIT_IPI405_S21__C2_Mohamed_zead_88405\CoronNurse\bin\Release\ممرض كورونا.exe
+D:\SVU\9 S21\Wize\BAIT_IPI405_S21__C2_Mohamed_zead_88405\BAIT_IPI405_S21__C2_Mohamed_zead_88405\CoronNurse\bin\Release\ممرض كورونا.pdb
+D:\SVU\9 S21\Wize\BAIT_IPI405_S21__C2_Mohamed_zead_88405\BAIT_IPI405_S21__C2_Mohamed_zead_88405\CoronNurse\obj\Release\CoronNurse.csproj.AssemblyReference.cache
+D:\SVU\9 S21\Wize\BAIT_IPI405_S21__C2_Mohamed_zead_88405\BAIT_IPI405_S21__C2_Mohamed_zead_88405\CoronNurse\obj\Release\CoronNurse.csproj.SuggestedBindingRedirects.cache
+D:\SVU\9 S21\Wize\BAIT_IPI405_S21__C2_Mohamed_zead_88405\BAIT_IPI405_S21__C2_Mohamed_zead_88405\CoronNurse\obj\Release\CoronNurse.LoginForm.resources
+D:\SVU\9 S21\Wize\BAIT_IPI405_S21__C2_Mohamed_zead_88405\BAIT_IPI405_S21__C2_Mohamed_zead_88405\CoronNurse\obj\Release\CoronNurse.MainForm.resources
+D:\SVU\9 S21\Wize\BAIT_IPI405_S21__C2_Mohamed_zead_88405\BAIT_IPI405_S21__C2_Mohamed_zead_88405\CoronNurse\obj\Release\CoronNurse.Properties.Resources.resources
+D:\SVU\9 S21\Wize\BAIT_IPI405_S21__C2_Mohamed_zead_88405\BAIT_IPI405_S21__C2_Mohamed_zead_88405\CoronNurse\obj\Release\CoronNurse.csproj.GenerateResource.cache
+D:\SVU\9 S21\Wize\BAIT_IPI405_S21__C2_Mohamed_zead_88405\BAIT_IPI405_S21__C2_Mohamed_zead_88405\CoronNurse\obj\Release\CoronNurse.csproj.CoreCompileInputs.cache
+D:\SVU\9 S21\Wize\BAIT_IPI405_S21__C2_Mohamed_zead_88405\BAIT_IPI405_S21__C2_Mohamed_zead_88405\CoronNurse\obj\Release\ممرض كورونا.exe
+D:\SVU\9 S21\Wize\BAIT_IPI405_S21__C2_Mohamed_zead_88405\BAIT_IPI405_S21__C2_Mohamed_zead_88405\CoronNurse\obj\Release\ممرض كورونا.pdb
+F:\CoronNurse\obj\Release\CoronNurse.csproj.AssemblyReference.cache
+F:\CoronNurse\obj\Release\CoronNurse.csproj.SuggestedBindingRedirects.cache
+F:\CoronNurse\obj\Release\CoronNurse.LoginForm.resources
+F:\CoronNurse\obj\Release\CoronNurse.MainForm.resources
+F:\CoronNurse\obj\Release\CoronNurse.Properties.Resources.resources
+F:\CoronNurse\obj\Release\CoronNurse.csproj.GenerateResource.cache
+F:\CoronNurse\obj\Release\CoronNurse.csproj.CoreCompileInputs.cache
+F:\CoronNurse\bin\Release\Corona Nurse.exe.config
+F:\CoronNurse\bin\Release\Corona Nurse.exe
+F:\CoronNurse\bin\Release\Corona Nurse.pdb
+F:\CoronNurse\obj\Release\Corona Nurse.exe
+F:\CoronNurse\obj\Release\Corona Nurse.pdb
+C:\Users\ziad\Desktop\Ultra Project\English Version\v2\CoronNurse\bin\Release\Corona Nurse.exe.config
+C:\Users\ziad\Desktop\Ultra Project\English Version\v2\CoronNurse\bin\Release\Corona Nurse.exe
+C:\Users\ziad\Desktop\Ultra Project\English Version\v2\CoronNurse\bin\Release\Corona Nurse.pdb
+C:\Users\ziad\Desktop\Ultra Project\English Version\v2\CoronNurse\obj\Release\CoronNurse.csproj.AssemblyReference.cache
+C:\Users\ziad\Desktop\Ultra Project\English Version\v2\CoronNurse\obj\Release\CoronNurse.csproj.SuggestedBindingRedirects.cache
+C:\Users\ziad\Desktop\Ultra Project\English Version\v2\CoronNurse\obj\Release\CoronNurse.LoginForm.resources
+C:\Users\ziad\Desktop\Ultra Project\English Version\v2\CoronNurse\obj\Release\CoronNurse.MainForm.resources
+C:\Users\ziad\Desktop\Ultra Project\English Version\v2\CoronNurse\obj\Release\CoronNurse.Properties.Resources.resources
+C:\Users\ziad\Desktop\Ultra Project\English Version\v2\CoronNurse\obj\Release\CoronNurse.csproj.GenerateResource.cache
+C:\Users\ziad\Desktop\Ultra Project\English Version\v2\CoronNurse\obj\Release\CoronNurse.csproj.CoreCompileInputs.cache
+C:\Users\ziad\Desktop\Ultra Project\English Version\v2\CoronNurse\obj\Release\Corona Nurse.exe
+C:\Users\ziad\Desktop\Ultra Project\English Version\v2\CoronNurse\obj\Release\Corona Nurse.pdb
+C:\Users\96398\Desktop\CoronNurse\CoronNurse\bin\Release\Corona Nurse.exe.config
+C:\Users\96398\Desktop\CoronNurse\CoronNurse\bin\Release\Corona Nurse.exe
+C:\Users\96398\Desktop\CoronNurse\CoronNurse\bin\Release\Corona Nurse.pdb
+C:\Users\96398\Desktop\CoronNurse\CoronNurse\obj\Release\CoronNurse.csproj.AssemblyReference.cache
+C:\Users\96398\Desktop\CoronNurse\CoronNurse\obj\Release\CoronNurse.csproj.SuggestedBindingRedirects.cache
+C:\Users\96398\Desktop\CoronNurse\CoronNurse\obj\Release\CoronNurse.LoginForm.resources
+C:\Users\96398\Desktop\CoronNurse\CoronNurse\obj\Release\CoronNurse.MainForm.resources
+C:\Users\96398\Desktop\CoronNurse\CoronNurse\obj\Release\CoronNurse.Properties.Resources.resources
+C:\Users\96398\Desktop\CoronNurse\CoronNurse\obj\Release\CoronNurse.csproj.GenerateResource.cache
+C:\Users\96398\Desktop\CoronNurse\CoronNurse\obj\Release\CoronNurse.csproj.CoreCompileInputs.cache
+C:\Users\96398\Desktop\CoronNurse\CoronNurse\obj\Release\Corona Nurse.exe
+C:\Users\96398\Desktop\CoronNurse\CoronNurse\obj\Release\Corona Nurse.pdb
+C:\Users\96398\Downloads\CoronaNurse-main (1)\CoronaNurse-main\CoronNurse\bin\Release\Corona Nurse.exe.config
+C:\Users\96398\Downloads\CoronaNurse-main (1)\CoronaNurse-main\CoronNurse\bin\Release\Corona Nurse.exe
+C:\Users\96398\Downloads\CoronaNurse-main (1)\CoronaNurse-main\CoronNurse\bin\Release\Corona Nurse.pdb
+C:\Users\96398\Downloads\CoronaNurse-main (1)\CoronaNurse-main\CoronNurse\obj\Release\CoronNurse.csproj.AssemblyReference.cache
+C:\Users\96398\Downloads\CoronaNurse-main (1)\CoronaNurse-main\CoronNurse\obj\Release\CoronNurse.csproj.SuggestedBindingRedirects.cache
+C:\Users\96398\Downloads\CoronaNurse-main (1)\CoronaNurse-main\CoronNurse\obj\Release\CoronNurse.LoginForm.resources
+C:\Users\96398\Downloads\CoronaNurse-main (1)\CoronaNurse-main\CoronNurse\obj\Release\CoronNurse.MainForm.resources
+C:\Users\96398\Downloads\CoronaNurse-main (1)\CoronaNurse-main\CoronNurse\obj\Release\CoronNurse.Properties.Resources.resources
+C:\Users\96398\Downloads\CoronaNurse-main (1)\CoronaNurse-main\CoronNurse\obj\Release\CoronNurse.csproj.GenerateResource.cache
+C:\Users\96398\Downloads\CoronaNurse-main (1)\CoronaNurse-main\CoronNurse\obj\Release\CoronNurse.csproj.CoreCompileInputs.cache
+C:\Users\96398\Downloads\CoronaNurse-main (1)\CoronaNurse-main\CoronNurse\obj\Release\Corona Nurse.exe
+C:\Users\96398\Downloads\CoronaNurse-main (1)\CoronaNurse-main\CoronNurse\obj\Release\Corona Nurse.pdb

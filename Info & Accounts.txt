@@ -1,0 +1,25 @@
+To try the application and test all the features,
+you can find below all the required accounts:
+
+1- Admin account
+username: aa
+password: asd
+----------
+
+2- Doctors accounts
+username2: doctor_3
+username3: doctor_4
+username4: doctor_5
+usernamex: doctor_etc..
+password: doctor
+----------
+
+3- Patients accounts
+username1: zeaddawode
+password1: zeaddawode
+
+username2: ahmadsamer
+password2: ahmadsamer
+
+- There are several scheduled appointments for the first doctor of every 
+specialization to try the app.
